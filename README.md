@@ -1,3 +1,6 @@
+# fgbuilder
+The official repository of fgbuilders, a real estate company into the sales and construction of buildings based in Ghana.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
