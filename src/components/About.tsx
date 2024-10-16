@@ -27,7 +27,7 @@ const About: React.FC = () => {
           variants={fadeInVariants}
         >
           <h1 className="text-4xl font-bold mb-5">
-            Ghana&apos;s Premier Real Estate Agency
+            Ghana&apos;s Leading Construction Company
           </h1>
           <p className="text-lg text-gray-700">
             FG BUILDERS is a renowned construction company headquartered in

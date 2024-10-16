@@ -14,8 +14,8 @@ const Footer: React.FC = () => {
               FG Builders
             </h2>
             <p className="text-sm">
-              FG Builders is a premium real estate agency offering luxury homes
-              and exceptional services to clients in Ghana.
+              FG Builders is a leading construction company offering luxury
+              homes and exceptional services to clients in Ghana and beyond.
             </p>
           </div>
 
@@ -132,3 +132,10 @@ const Footer: React.FC = () => {
 };
 
 export default Footer;
+
+
+
+
+
+
+
